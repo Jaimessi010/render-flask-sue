@@ -9,7 +9,7 @@ app = Flask(__name__)
 # ======================================
 
 APP_NAME = "Flask Deploy"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 
 # ======================================
 # PAGINA PRINCIPAL
