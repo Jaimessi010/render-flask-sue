@@ -23,7 +23,7 @@ def home():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask Deploy | Railway</title>
+    <title>Flask Deploy | Azure</title>
 
     <style>
         * {
@@ -254,7 +254,7 @@ def home():
 
             <h1>
                 Despliegue continuo <br>
-                con <span>Railway</span>
+                con <span>Azure</span>
             </h1>
 
             <p>
@@ -290,7 +290,7 @@ def home():
 
             <div class="card">
                 <div class="icon">🚀</div>
-                <h3>Railway</h3>
+                <h3>Azure</h3>
                 <p>
                     Plataforma que construye y publica
                     automáticamente las nuevas versiones.
@@ -321,7 +321,7 @@ def home():
 
                 <div class="step">
                     <strong>03 · Despliegue</strong>
-                    <small>Railway CD</small>
+                    <small>Azure CD</small>
                 </div>
 
                 <div class="arrow">➜</div>
@@ -356,7 +356,7 @@ def home():
 
     <footer>
         Proyecto académico DevOps |
-        Despliegue continuo con Railway
+        Despliegue continuo con Azure
     </footer>
 
 </body>
